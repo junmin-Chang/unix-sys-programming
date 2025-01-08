@@ -1,3 +1,4 @@
+// TCP 클라이언트 프로그램
 #include <ctype.h>
 #include <sys/types.h>
 #include <sys/socket.h>

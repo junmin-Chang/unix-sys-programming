@@ -1,3 +1,4 @@
+//TCP 서버 프로그램
 #include <ctype.h>
 #include <sys/types.h>
 #include <sys/socket.h>
